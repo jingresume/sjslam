@@ -1,0 +1,7 @@
+/home/ubuntu/sjSlam/ch3/useGeometry/useGeometry/build/CMakeFiles/install.dir
+/home/ubuntu/sjSlam/ch3/useGeometry/useGeometry/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/sjSlam/ch3/useGeometry/useGeometry/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/sjSlam/ch3/useGeometry/useGeometry/build/CMakeFiles/usegeometry.dir
+/home/ubuntu/sjSlam/ch3/useGeometry/useGeometry/build/CMakeFiles/install/strip.dir
+/home/ubuntu/sjSlam/ch3/useGeometry/useGeometry/build/CMakeFiles/install/local.dir
+/home/ubuntu/sjSlam/ch3/useGeometry/useGeometry/build/CMakeFiles/edit_cache.dir

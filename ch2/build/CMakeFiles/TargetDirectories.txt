@@ -1,0 +1,6 @@
+/home/ubuntu/sjSlam/ch2/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/sjSlam/ch2/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/sjSlam/ch2/build/CMakeFiles/hello.dir
+/home/ubuntu/sjSlam/ch2/build/CMakeFiles/hello_shared.dir
+/home/ubuntu/sjSlam/ch2/build/CMakeFiles/helloSLAM.dir
+/home/ubuntu/sjSlam/ch2/build/CMakeFiles/useHello.dir
