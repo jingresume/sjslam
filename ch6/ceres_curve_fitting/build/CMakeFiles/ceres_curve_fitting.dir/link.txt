@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -g   CMakeFiles/ceres_curve_fitting.dir/main.cpp.o  -o ceres_curve_fitting -rdynamic 
